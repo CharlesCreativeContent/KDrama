@@ -1,8 +1,6 @@
 # Capstone-KDramaBeans
 
 ![Intro Screen](images/intro.jpg)
-![Intro Screen](images/fly_to_korea.gif)
-![Intro Screen](images/startButton.png)
 
 By: Kathy Le, Junru Chen, David Kwon
 
