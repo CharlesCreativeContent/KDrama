@@ -1,6 +1,6 @@
 # Capstone-KDramaBeans
 
-![Intro Screen](images/Intro.jpg)
+![Intro Screen](images/intro.jpg)
 
 By: Kathy Le, Junru Chen, David Kwon
 
